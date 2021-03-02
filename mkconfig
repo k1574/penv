@@ -1,0 +1,4 @@
+<$MKINCDIR/config
+PROGNAME = penv
+CFILES = main.c
+
